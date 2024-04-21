@@ -1,0 +1,20 @@
+Package: forestRanger
+Title: A Package for Forest Type Classification
+Version: 0.0.0.9000
+Authors@R: 
+    person("Rejina", "Gauro", , "reznagauro09@gmail.com", role = c("aut", "cre"))
+Description: The "forestRanger" facilitates remote sensing-driven forest type 
+             classification. It provides a comprehensive set of functions for 
+             various tasks including loading satellite imagery and shapefiles, 
+             extracting samples, preprocessing data, training Random Forest 
+             models, and visualizing classification results.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+        raster,
+        sp,
+        rgdal,
+        utils,
+        randomForest
