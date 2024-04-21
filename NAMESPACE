@@ -2,7 +2,6 @@
 
 export(Ranger)
 export(accuRacy)
-export(extRact)
 export(loaData)
 export(tRain)
 import(randomForest)
@@ -10,4 +9,3 @@ import(raster)
 import(rgdal)
 import(sp)
 importFrom(randomForest,tuneRF)
-importFrom(utils,str)
