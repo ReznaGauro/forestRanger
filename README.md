@@ -1,6 +1,6 @@
 # forestRanger
 
-Introducing foRestRanger: Your Guide to Exploring Forests 🌲
+> Introducing foRestRanger: Your Guide to Exploring Forests 🌲
 
 Explore forests like never before with foRestRanger, your all-in-one toolkit to map forest types. Seamlessly integrate satellite raster imagery and shapefiles to extract precise samples, train Random Forest models, and visualize classification results.
 
