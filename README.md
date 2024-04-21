@@ -8,11 +8,11 @@ Welcome to the future of geospatial forest exploration with foRestRanger :)
 
 # Installation
 
-`#ffffff`You can install the development version of forestRanger from Github <https://github.com/> with:
+You can install the development version of forestRanger from Github <https://github.com/> with:
 
-`#ffffff`install.packages("devtools")
+install.packages("devtools")
 
-`#ffffff`devtools::install_github("ReznaGauro/forestRanger")
+devtools::install_github("ReznaGauro/forestRanger")
 
 # Examplary usage - "forestRanger" in action:
 install.packages("devtools")
