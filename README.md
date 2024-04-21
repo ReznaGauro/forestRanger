@@ -46,7 +46,6 @@ source     : AOI.tif
 names      : AOI_1, AOI_2, AOI_3, AOI_4, AOI_5, AOI_6, AOI_7 
 min values :     5,   178,   237,  1977,  6652,  6613,  7020 
 max values : 61299, 62003, 65454, 65454, 64781, 65454, 65454 
-
 OGR data source with driver: ESRI Shapefile 
 Source: "D:\MSc_EAGLE\RPackage_Resources\TrainingPoints.shp", layer: "TrainingPoints"
 with 293 features
@@ -65,5 +64,6 @@ Labels of shapefile:
 2 Coniferious 
 3 Others 
 4 Water
+
 
 
