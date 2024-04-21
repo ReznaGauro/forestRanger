@@ -9,9 +9,7 @@ Welcome to the future of geospatial forest exploration with foRestRanger :)
 # Installation
 
 You can install the development version of forestRanger from Github <https://github.com/> with:
-
 install.packages("devtools")
-
 devtools::install_github("ReznaGauro/forestRanger")
 
 # Examplary usage - "forestRanger" in action:
