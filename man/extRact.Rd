@@ -7,9 +7,9 @@
 extRact(img, shp)
 }
 \arguments{
-\item{img}{A Raster* image representing the raster data.}
+\item{img}{Path to the Raster file}
 
-\item{shp}{A SpatialPolygonsDataFrame object representing the shapefile data.}
+\item{shp}{Path to the shapefile.}
 }
 \value{
 A data frame containing the extracted raster values.

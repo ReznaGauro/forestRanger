@@ -4,8 +4,8 @@
 #' It assigns factor levels from the shapefile and removes the first column (ID)
 #' from the resulting data frame.
 #'
-#' @param img A Raster* image representing the raster data.
-#' @param shp A SpatialPolygonsDataFrame object representing the shapefile data.
+#' @param img Path to the Raster file
+#' @param shp Path to the shapefile.
 #'
 #' @return A data frame containing the extracted raster values.
 #' @import raster
