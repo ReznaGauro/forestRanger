@@ -64,4 +64,6 @@ This function generates the spatial information of the raster and shapefile:
 > 3 Others
 > 4 Water
 
-forestRanger runs the algorithm which gives you a forest type classification that should look like: 
+After running through the functions, forestRanger classifies the forest types into four categories: broadleaved, coniferous, others, and water. 
+![Rplot02](https://github.com/ReznaGauro/forestRanger/assets/148858687/b52179d5-fed0-4dc9-af55-230f12d817e0) ![Rplot03](https://github.com/ReznaGauro/forestRanger/assets/148858687/81e764b5-f63a-44c0-ac33-27c9ccf03f69)
+
