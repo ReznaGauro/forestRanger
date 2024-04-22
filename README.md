@@ -74,7 +74,7 @@ Plot made with levelplot (rasterVis)
 
 
 ## References:
-- For Exempalry Usage:
+For Exemplary Usage:
 -  Satellite (raster.tif) imagery was downloaded from USGS Earth Explorer <https://earthexplorer.usgs.gov/>
 -  Training samples were taken from Land cover/use (LUCAS) Data 2018 <https://ec.europa.eu/eurostat/web/lucas/data/primary-data/2018>
 -  Validation points were randomly extracted using EnMAP-Box 3 QGIS plugin <https://plugins.qgis.org/plugins/enmapboxplugin/>
