@@ -64,7 +64,4 @@ This function generates the spatial information of the raster and shapefile:
 > 3 Others
 > 4 Water
 
-![Rplot02](https://github.com/ReznaGauro/forestRanger/assets/148858687/bb65283c-557f-413d-a1c3-e2c7479c30c3)
-![Rplot03](https://github.com/ReznaGauro/forestRanger/assets/148858687/1ba7a480-358e-4199-b5dc-a76e84e3aafa)
-
-
+forestRanger runs the algorithm which gives you a forest type classification that should look like: 
