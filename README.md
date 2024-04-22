@@ -66,4 +66,14 @@ This function generates the spatial information of the raster and shapefile:
 
 After running through the functions, forestRanger classifies the forest types into four categories: broadleaved, coniferous, others, and water. 
 ![Rplot02](https://github.com/ReznaGauro/forestRanger/assets/148858687/b52179d5-fed0-4dc9-af55-230f12d817e0) ![Rplot03](https://github.com/ReznaGauro/forestRanger/assets/148858687/81e764b5-f63a-44c0-ac33-27c9ccf03f69)
+                           Plot made with levelplot (rasterVis)
+
+
+References:
+For Exempalry Usage- Satellite (raster.tif) imagery was downloaded from USGS Earth Explorer <https://earthexplorer.usgs.gov/>
+                     Training samples were taken from Land cover/use (LUCAS) Data 2018 <https://ec.europa.eu/eurostat/web/lucas/data/primary-data/2018>
+                     Validation points were randomly extracted using EnMAP-Box 3 QGIS plugin <https://plugins.qgis.org/plugins/enmapboxplugin/>
+
+https://cran.r-project.org/web/packages/raster/index.html
+
 
